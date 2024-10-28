@@ -11,7 +11,7 @@ sections:
       We go beyond systems integration, building reliable, data-driven solutions
       that empower your business to excel.
     text: >+
-      *   Seamlessly connect your IT infrastructure for enhanced agility and
+      ### Seamlessly connect your IT infrastructure for enhanced agility and
       productivity.
 
 
