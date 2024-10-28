@@ -8,8 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: >-
-      At Assured Data Systems, we go beyond systems integration, building
-      reliable, data-driven solutions that empower your business to excel.
+      We go beyond systems integration, building reliable, data-driven solutions
+      that empower your business to excel.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
