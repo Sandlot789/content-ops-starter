@@ -11,7 +11,7 @@ sections:
       We go beyond systems integration, building reliable, data-driven solutions
       that empower your business to excel.
     text: |
-      text?
+      Additional text?
     actions:
       - label: Get started
         altText: ''
