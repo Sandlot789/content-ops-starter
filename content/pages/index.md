@@ -10,17 +10,18 @@ sections:
     subtitle: >-
       We go beyond systems integration, building reliable, data-driven solutions
       that empower your business to excel.
-    text: >
-      *   Seamlessly connect your IT infrastructure for enhanced agility and
+    text: >+
+      Seamlessly connect your IT infrastructure for enhanced agility and
       productivity.
 
 
-      *   Transform your data into actionable insights, empowering smarter
+      Transform your data into actionable insights, empowering smarter
       decisions.
 
 
-      *   Streamline workflows and increase efficiency, giving your team the
-      freedom to focus on innovation.
+      Streamline workflows and increase efficiency, giving your team the freedom
+      to focus on innovation.
+
     actions:
       - label: Get started
         altText: ''
