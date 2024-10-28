@@ -10,10 +10,18 @@ sections:
     subtitle: >-
       We go beyond systems integration, building reliable, data-driven solutions
       that empower your business to excel.
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      *   Seamlessly connect your IT infrastructure for enhanced agility and
+      productivity.
+
+
+      *   Transform your data into actionable insights, empowering smarter
+      decisions.
+
+
+      *   Streamline workflows and increase efficiency, giving your team the
+      freedom to focus on innovation.
+
     actions:
       - label: Get started
         altText: ''
