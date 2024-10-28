@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Assured Data Systems
+      label: Badge
       color: text-primary
       type: Badge
     elementId: ''
